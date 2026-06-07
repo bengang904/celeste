@@ -1,4 +1,0 @@
-*.wasm binary
-*.dll binary
-*.pdb binary
-*.json text eol=lf
